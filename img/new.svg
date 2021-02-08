@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146.999" height="43.598" viewBox="0 0 146.999 43.598">
+  <defs>
+    <filter id="Path_107" x="0" y="0" width="146.999" height="41.445" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-31 1)">
+    <g id="Слой_1" data-name="Слой 1" transform="translate(34 0)">
+      <rect id="Rectangle_398" data-name="Rectangle 398" width="5.077" height="8.93" transform="translate(135.923 30.091)" fill="#e6ca69"/>
+      <path id="Path_106" data-name="Path 106" d="M1448.338,3.577h0a3.577,3.577,0,0,1-3.578,3.577h-1.5V0h1.5a3.577,3.577,0,0,1,3.578,3.577Z" transform="translate(-1307.339 35.444)" fill="#cca54d"/>
+      <g transform="matrix(1, 0, 0, 1, -3, -1)" filter="url(#Path_107)">
+        <path id="Path_107-2" data-name="Path 107" d="M141.019,96.194V64.442c0-2.041-1.334-3.694-2.978-3.692H1.509A1.507,1.507,0,0,0,.155,61.833a2.2,2.2,0,0,0,.236,1.978L8.841,75.8a4.818,4.818,0,0,1,0,5.346L.391,93.134a2.2,2.2,0,0,0-.237,1.979A1.505,1.505,0,0,0,1.509,96.2Z" transform="translate(2.98 -59.75)" fill="#e6ca69"/>
+      </g>
+    </g>
+  </g>
+</svg>
